@@ -1,0 +1,47 @@
+{
+  "dna": "b6cd525e32dc1a278b24954c00dc45d6b16c3636",
+  "name": "#31",
+  "description": "<your-stackup-username>'s PolyAliens NFT collection.",
+  "image": "ipfs://QmeFFxTLJidUWhsw8TbZ3QYHJ4g9iBKZ8ZnSQ8pHAdVU6b/31.png",
+  "edition": 31,
+  "date": 1685074941318,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue_bg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "light_blue eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "happy_smile"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "gray_shirt"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "orange_scarf"
+    },
+    {
+      "trait_type": "Weed",
+      "value": "weed"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "green_glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "red_bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
